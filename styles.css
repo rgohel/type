@@ -1,0 +1,15 @@
+/* Type */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 5em;
+}
+.new-color {
+	color: blue;
+}
+.other-font {
+	font-family: serif;
+}
